@@ -11,3 +11,17 @@ In order to replicate our study, we provide:
 3. data for RQ3:
 	1.   R script to compute diffculty and popularity (script_difficulty_popularity.R)
 	2.   the sample set of unanswered questions (unanswerd_questions.xlsx)
+
+# How to cite?
+
+Please, use the following bibtex entry:
+
+```tex
+@inproceedings{ouni2023empirical,
+  title={An empirical study on continuous integration trends, topics and challenges in stack overflow},
+  author={Ouni, Ali and Saidani, Islem and Alomar, Eman and Mkaouer, Mohamed Wiem},
+  booktitle={Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering},
+  pages={141--151},
+  year={2023}
+}
+```
